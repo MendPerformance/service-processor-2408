@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: easybuggy
-  namespace: mend-crest-data
+  name: service-processor-2408
+  namespace: MendPerformance
   annotations:
-    github.com/project-slug: mend-crest-data/easybuggy
+    github.com/project-slug: MendPerformance/service-processor-2408
 spec:
   type: service
   lifecycle: unknown
